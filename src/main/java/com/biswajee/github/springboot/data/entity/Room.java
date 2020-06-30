@@ -54,5 +54,4 @@ public class Room {
 	public void setBedInfo(String bedInfo) {
 		this.bedInfo = bedInfo;
 	}
-	
 }
